@@ -54,3 +54,29 @@ a {
     text-decoration: none;
     color: #333; /* Set link color to dark grey */
 }
+
+
+
+/* Styles for the sidebar and personal information */
+.sidebar {
+    width: 200px; /* Adjust the width as needed */
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
+}
+
+.personal-info {
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Adjust styles as needed for personal information text */
+.personal-info h2 {
+    color: #333; /* Set heading text color to dark grey */
+}
+
+.personal-info p {
+    margin: 10px 0; /* Add margin to create spacing between personal information items */
+}
