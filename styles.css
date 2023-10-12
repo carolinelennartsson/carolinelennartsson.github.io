@@ -75,7 +75,7 @@ a {
     width: 250px;
     background-color: #f2f2f2; /* Set the background to light grey */
     color: #333; /* Set text color to dark grey */
-    padding: 20px;
+    padding: 10px;
     box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
     position: fixed;
     height: 100%;
