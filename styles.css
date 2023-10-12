@@ -14,7 +14,7 @@ body {
 header {
     background-color: #FFFFFF; /* Set the background to light grey */
     color: #333; /* Set text color to dark grey */
-    text-align: right;
+    text-align: left;
     padding: 10px;
 }
 
