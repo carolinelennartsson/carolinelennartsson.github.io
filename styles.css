@@ -102,3 +102,7 @@ a {
 .main-content {
     border-radius: 10px; /* Adds rounded edges to all corners */
 }
+
+html {
+    scroll-behavior: smooth;
+}
