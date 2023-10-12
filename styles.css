@@ -1,48 +1,38 @@
-/* Reset some default styles */
-body, h1, h2, p {
+/* Additional styles with Helvetica font and increased spacing */
+
+body {
+    font-family: 'Helvetica', Arial, sans-serif;
+    background-color: #f2f2f2;
+    line-height: 1.6;
     margin: 0;
     padding: 0;
 }
 
-body {
-    font-family: Arial, sans-serif;
-    background-color: #f2f2f2;
+nav.sidebar {
+    margin-right: 20px;
 }
 
-header {
-    background-color: #333;
-    color: #fff;
-    padding: 10px 0;
-    text-align: center;
+.menu li {
+    margin-bottom: 10px;
 }
 
-nav ul {
-    list-style-type: none;
-}
-
-nav li {
-    display: inline;
-    margin: 0 10px;
-}
-
-nav a {
-    color: #fff;
-    text-decoration: none;
-}
-
-main {
-    max-width: 800px;
-    margin: 0 auto;
+main.content {
     padding: 20px;
-    background-color: #fff;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
-footer {
-    text-align: center;
+.header-box {
     background-color: #333;
     color: #fff;
-    padding: 10px 0;
+    padding: 20px;
+    text-align: center;
+}
+
+.section h2 {
+    margin-bottom: 10px;
+}
+
+.section p {
+    margin-bottom: 20px;
 }
 
 /* Add more styles for other elements as needed */
