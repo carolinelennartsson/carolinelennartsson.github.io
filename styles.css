@@ -12,10 +12,10 @@ body {
 }
 
 header {
-    background-color: #f2f2f2; /* Set the background to light grey */
+    background-color: #FFFFFF; /* Set the background to light grey */
     color: #333; /* Set text color to dark grey */
-    text-align: center;
-    padding: 20px;
+    text-align: right;
+    padding: 10px;
 }
 
 nav ul {
@@ -35,7 +35,7 @@ nav a {
 main {
     max-width: 800px;
     margin: 0 auto;
-    padding: 20px;
+    padding: 10px;
     background-color: #FFFFFF; /* Set the background to light grey */
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     border-radius: 10px;
