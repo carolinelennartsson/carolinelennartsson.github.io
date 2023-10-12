@@ -1,7 +1,7 @@
 /* Reset some default styles */
 body, h1, h2, p {
     padding: 0;
-    margin: 20px 0; /* Add top margin to create space at the top */
+    margin: 20px 50px; /* Add top margin to create space at the top */
     color: #333; /* Set text color to dark grey */
 }
 
@@ -96,4 +96,8 @@ a {
 
 .personal-info p {
     margin: 10px 0;
+}
+
+.main-content {
+    border-radius: 10px; /* Adds rounded edges to all corners */
 }
