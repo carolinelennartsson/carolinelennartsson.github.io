@@ -9,23 +9,26 @@ body, h1, h2, p {
 /* Set a background color for the entire page */
 body {
     font-family: 'Arial', sans-serif;
-    background-color: #f0f0f0;
+    background-color: #f5f5f5; /* A slightly muted background color */
     display: flex;
     margin: 0;
 }
 
 /* Sidebar styling */
 .sidebar {
-    background-color: #0074e4;
+    background-color: #34495e; /* A muted blue-gray color */
     color: #fff;
     width: 250px;
     padding: 20px;
     display: flex;
     flex-direction: column;
+    border-radius: 10px;
+    box-shadow: 5px 0 10px rgba(0, 0, 0, 0.2); /* Adds a subtle shadow */
 }
 
 .logo {
     text-align: center;
+    margin-bottom: 20px;
 }
 
 .logo h1 {
@@ -47,10 +50,13 @@ body {
     color: #fff;
     font-weight: bold;
     transition: background-color 0.3s;
+    display: block;
+    padding: 10px 15px;
+    border-radius: 5px;
 }
 
 .menu a:hover {
-    background-color: #0058b8;
+    background-color: #2c3e50; /* A slightly darker shade on hover */
 }
 
 /* Content styling */
@@ -58,16 +64,17 @@ body {
     flex: 1;
     padding: 20px;
     background-color: #fff;
-    border-radius: 15px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
 }
 
 /* Header styling */
 .header {
-    background-color: #0074e4;
+    background-color: #34495e; /* A muted blue-gray color */
     color: #fff;
     text-align: center;
     padding: 20px;
+    border-radius: 10px;
 }
 
 .header h1 {
@@ -79,13 +86,16 @@ body {
     max-width: 800px;
     margin: 20px auto;
     padding: 20px;
+    border-radius: 10px;
 }
 
 .section h2 {
-    font-size: 1.5em;
-    margin-bottom: 10px;
+    font-size: 1.8em; /* Slightly larger heading size */
+    margin-bottom: 15px; /* More spacing between headings and content */
+    color: #333; /* A darker text color */
 }
 
 .section p {
     font-size: 1.2em;
+    color: #555; /* A slightly muted text color */
 }
