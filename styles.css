@@ -1,6 +1,6 @@
 /* Increase spacing, adjust text color, remove link underlining, and add rounded edges to the main section */
 body, h1, h2, p {
-    margin: 0;
+    margin: 20px;
     padding: 0;
     color: #333; /* Set text color to dark grey */
 }
