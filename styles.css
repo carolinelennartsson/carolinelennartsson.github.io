@@ -9,15 +9,13 @@ body {
     font-family: 'Helvetica', Arial, sans-serif;
     background-color: #f2f2f2;
     line-height: 1.6;
-    margin: 0;
-    padding: 0;
 }
 
 header {
     background-color: #333;
     color: #fff;
-    padding: 10px 0;
     text-align: center;
+    padding: 20px;
 }
 
 nav ul {
@@ -25,12 +23,12 @@ nav ul {
 }
 
 nav li {
-    display: inline;
     margin: 0 10px;
+    display: inline;
 }
 
 nav a {
-    color: #fff;
+    color: #333; /* Set link color to dark grey */
     text-decoration: none;
 }
 
@@ -40,6 +38,7 @@ main {
     padding: 20px;
     background-color: #fff;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
 }
 
 footer {
@@ -49,17 +48,15 @@ footer {
     padding: 10px 0;
 }
 
-/* Header box styles with increased text spacing */
-header {
-    background-color: #333;
-    color: #333; /* Set text color to dark grey */
-    padding: 20px;
-    text-align: center;
-    line-height: 1.6;
+/* Header styles with increased text spacing */
+header h1 {
+    font-size: 28px;
+    margin-bottom: 10px;
 }
 
 /* Section styles with more spacing */
 section h2 {
+    font-size: 20px;
     margin-bottom: 10px;
 }
 
@@ -70,35 +67,32 @@ section p {
 /* Remove underlining from links */
 a {
     text-decoration: none;
-    color: #333; /* Set link color to dark grey */
 }
 
-/* Adjusted styles for the sidebar and personal information */
+/* Sidebar styles for personal information */
 .sidebar {
-    width: 250px; /* Adjust the width as needed */
+    width: 250px;
     background-color: #333;
     color: #fff;
     padding: 20px;
     box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
-    position: fixed; /* Fix the sidebar position */
-    height: 100%; /* Make the sidebar take the full height of the viewport */
+    position: fixed;
+    height: 100%;
 }
 
-.content {
-    margin-left: 250px; /* Set the left margin to match the sidebar width */
-}
-
+/* Personal information styles */
 .personal-info {
     background-color: #fff;
     padding: 20px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
-/* Adjust styles as needed for personal information text */
 .personal-info h2 {
-    color: #333; /* Set heading text color to dark grey */
+    color: #333;
+    font-size: 18px;
+    margin-bottom: 10px;
 }
 
 .personal-info p {
-    margin: 10px 0; /* Add margin to create spacing between personal information items */
+    margin: 10px 0;
 }
