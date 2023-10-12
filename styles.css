@@ -7,13 +7,13 @@ body, h1, h2, p {
 
 body {
     font-family: 'Helvetica', Arial, sans-serif;
-    background-color: #f2f2f2;
+    background-color: #f2f2f2; /* Set the background to light grey */
     line-height: 1.6;
 }
 
 header {
-    background-color: #333;
-    color: #fff;
+    background-color: #f2f2f2; /* Set the background to light grey */
+    color: #333; /* Set text color to dark grey */
     text-align: center;
     padding: 20px;
 }
@@ -36,15 +36,16 @@ main {
     max-width: 800px;
     margin: 0 auto;
     padding: 20px;
-    background-color: #fff;
+    background-color: #f2f2f2; /* Set the background to light grey */
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     border-radius: 10px;
+    color: #333; /* Set text color to dark grey */
 }
 
 footer {
     text-align: center;
-    background-color: #333;
-    color: #fff;
+    background-color: #f2f2f2; /* Set the background to light grey */
+    color: #333; /* Set text color to dark grey */
     padding: 10px 0;
 }
 
@@ -72,8 +73,8 @@ a {
 /* Sidebar styles for personal information */
 .sidebar {
     width: 250px;
-    background-color: #333;
-    color: #fff;
+    background-color: #f2f2f2; /* Set the background to light grey */
+    color: #333; /* Set text color to dark grey */
     padding: 20px;
     box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
     position: fixed;
@@ -82,7 +83,7 @@ a {
 
 /* Personal information styles */
 .personal-info {
-    background-color: #fff;
+    background-color: #fff; /* Set the background to white */
     padding: 20px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
