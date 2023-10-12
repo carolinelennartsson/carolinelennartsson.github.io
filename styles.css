@@ -1,7 +1,8 @@
-/* Increase spacing */
+/* Increase spacing, adjust text color, remove link underlining, and add rounded edges to the main section */
 body, h1, h2, p {
     margin: 0;
     padding: 0;
+    color: #333; /* Set text color to dark grey */
 }
 
 body {
@@ -11,8 +12,8 @@ body {
 }
 
 nav ul {
-    margin: 0; /* Remove list margin */
-    padding: 0; /* Remove list padding */
+    margin: 0;
+    padding: 0;
     list-style-type: none;
 }
 
@@ -25,7 +26,8 @@ main {
     max-width: 800px;
     margin: 0 auto;
     padding: 20px;
-    background-color: #fff;
+    background: none; /* Remove the grey box background */
+    border-radius: 10px; /* Add rounded edges to the main section */
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
@@ -36,12 +38,13 @@ footer {
     padding: 10px 0;
 }
 
-/* Header box styles */
+/* Header box styles with increased text spacing */
 header {
     background-color: #333;
-    color: #fff;
-    padding: 20px; /* Increased padding for more space */
+    color: #333; /* Set text color to dark grey */
+    padding: 20px;
     text-align: center;
+    line-height: 1.6;
 }
 
 /* Section styles with more spacing */
@@ -51,4 +54,10 @@ section h2 {
 
 section p {
     margin-bottom: 20px;
+}
+
+/* Remove underlining from links */
+a {
+    text-decoration: none;
+    color: #333; /* Set link color to dark grey */
 }
