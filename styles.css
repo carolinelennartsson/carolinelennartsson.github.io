@@ -38,14 +38,7 @@ footer {
     padding: 10px 0;
 }
 
-/* Header box styles with increased text spacing */
-header {
-    background-color: #333;
-    color: #333; /* Set text color to dark grey */
-    padding: 20px;
-    text-align: center;
-    line-height: 1.6;
-}
+
 
 /* Section styles with more spacing */
 section h2 {
