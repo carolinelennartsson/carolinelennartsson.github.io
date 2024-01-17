@@ -25,9 +25,9 @@ titles_from_headings:
   strip_title: true
 
 header_pages:
-  - resume.html
   - archive.html
   - publications.md
+  - resume.md
 
 defaults:
   - scope:
