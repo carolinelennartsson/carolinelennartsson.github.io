@@ -1,17 +1,14 @@
-title: "New Blog Name"
-author: "Chad Baldwin"
-description: "Some short description of your blog can go here." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
+title: "We love proteins"
+author: "Caroline Lennartsson"
+description: "Find this website for thoughts on protein research." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
-email: "blog@gmail.com"
-twitter_username: "someusername"
-#github_username: "githubuser"
-#linkedin_username: "linkedinuser"
+#email: "blog@gmail.com"
+#twitter_username: "someusername"
+github_username: "carolinelennartsson"
+linkedin_username: "caroline-lennartsson"
 
-#########################################################################################
-######### Nothing below needs to be changed (unless you know what you're doing) #########
-#########################################################################################
 theme: "minima"
 
 rss: rss
