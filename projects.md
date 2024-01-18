@@ -1,16 +1,16 @@
 # Projects
 
-## ProteoBench
+Here you can find a list of projects and collaborative efforts that I've been a part of. 
 
-[ProteoBench repository](https://github.com/Proteobench/ProteoBench)
+### ProteoBench
 
-## Internal fragment ions 
+ProteoBench is an open and collaborative platform for community-curated benchmarks for proteomics data analysis pipelines. Our goal is to allow a continuous, easy, and controlled comparison of proteomics data analysis workflows. Read more in the [documentation](https://proteobench.readthedocs.io/en/latest/). You can also have a look at the [ProteoBench repository](https://github.com/Proteobench/ProteoBench), to see the code base. 
 
-[Internal Ions repo](https://github.com/veitveit/eubic23_internal_ions)
+### Internal fragment ions 
 
-## Hackathons 
+As part of the EuBIC 2023 developers meeting, I joined a collaborative effort to analyse and visualise the internal fragment ions in proteomics data. The project is found in the [Internal Ions repository](https://github.com/veitveit/eubic23_internal_ions). 
 
-[Protein Solubility Challange](https://github.com/roosavarjus/cbh21-protein-solubility-challenge)
-
-[Diabetes hackathon](https://github.com/roosavarjus/Diabetes-hackathon)
-
+### Hackathons 
+List of hackathons and other coding challanges. 
+* [Protein Solubility Challange](https://github.com/roosavarjus/cbh21-protein-solubility-challenge)
+* [Diabetes hackathon](https://github.com/roosavarjus/Diabetes-hackathon)
