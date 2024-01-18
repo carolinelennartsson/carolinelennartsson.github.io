@@ -14,3 +14,7 @@ As part of the EuBIC 2023 developers meeting, I joined a collaborative effort to
 List of hackathons and other coding challanges. 
 * [Protein Solubility Challange](https://github.com/roosavarjus/cbh21-protein-solubility-challenge)
 * [Diabetes hackathon](https://github.com/roosavarjus/Diabetes-hackathon)
+
+### Misc 
+* [Machine learning algorihm implementations](https://github.com/carolinelennartsson/ML-implementation)
+* [Solutions](https://github.com/carolinelennartsson/Answers_Computing_in_cpp) to exercises from the book "Guide to Scientific Computing in c++" by Joe Pitt-Francis and Jonathan Whiteley.
