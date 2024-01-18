@@ -11,7 +11,7 @@ ProteoBench is an open and collaborative platform for community-curated benchmar
 As part of the EuBIC 2023 developers meeting, I joined a collaborative effort to analyse and visualise the internal fragment ions in proteomics data. The project is found in the [Internal Ions repository](https://github.com/veitveit/eubic23_internal_ions). 
 
 ### Peptide drug development with symbolic regression
-An example of peptide drug featurization and modelling using anticancer peptides. Read this [article](https://www.abzu.ai/research/peptide-drug-development-with-symbolic-regression/) written during my time working at [Abzu](https://www.abzu.ai/). 
+An example of peptide drug featurization and modelling using anticancer peptides. Read this [article](https://www.abzu.ai/research/peptide-drug-development-with-symbolic-regression/), written during my time working at [Abzu](https://www.abzu.ai/). 
 
 ### Hackathons 
 List of hackathons and other coding challanges. 
