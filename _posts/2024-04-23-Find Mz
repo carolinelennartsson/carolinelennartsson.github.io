@@ -1,0 +1,37 @@
+# How to find a specific mass in your MS data? 
+
+With the help of python we can make a simple script to look for a specific ion. We'll use the python bindings of the OpenMS library fo MS data processing functions, found here [pyopenms](https://pypi.org/project/pyopenms/). 
+We'll use raw mzML file and search fopr mz within a 20 ppm range. 
+
+```
+test_file = "path/to/whereever/your/file/is/file.mzML"
+e = MSExperiment()
+MzMLFile().load(test_file, e) 
+```
+
+We'll look for the occurence of a pure glycine peak, which has the monoisotopic mass 57.021463735. The function will look for the occurence of a glycine mass return a list with the number of found peaks per MS/MS. 
+```
+def find_mz(exp, mass, ppm = 20):
+
+  peak_count_list = []
+  
+    for s in exp:
+        peak_count = 0
+
+        for mz, i in zip(*s.get_peaks()):
+            ppm_range = (ppm * mz) / 1_000_000
+            
+            if mz - ppm_range <= mass <= mz + ppm_range:
+                  peak_count += 1
+
+        peak_count_list.append(peak_count)
+
+    return peak_count_list
+```
+Call it. 
+```
+gly = 57.021463735
+counts = find_mz(e, gly)
+```
+
+You can modifiy this further to look for specific sets of m/z datapoints in your own data. Happy coding. :) 
