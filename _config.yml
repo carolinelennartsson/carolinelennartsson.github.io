@@ -22,7 +22,6 @@ titles_from_headings:
 
 header_pages:
   - archive.html
-  - about.md
   - publications.md
   - projects.md
 
