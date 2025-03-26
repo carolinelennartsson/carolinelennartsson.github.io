@@ -1,7 +1,6 @@
 ## Research summary
 
 My work in research have been focused on proteomics, protein interactions and post translational modifications.  
-Saar et al. (2024) explored the **intrinsically disordered regions (IDRs)** in the myotubularin-related protein (MTMR) family, highlighting their role in protein interactions and signaling [^1]. Rebak et al. (2024) conducted a large-scale quantitative analysis of **citrullination sites** in proteins, revealing new insights into PADI4 substrates and their relevance to diseases like rheumatoid arthritis [^2].
 
 ## Publications
 
