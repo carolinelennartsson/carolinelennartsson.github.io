@@ -9,8 +9,12 @@ On this site, you’ll find an overview of my research, publications, and ongoin
 Feel free to reach out!
 
 # Timeline 
-Ph.D. Candidate |  Copenhagen University, Novo Nordisk Foundation Center for Protein Research | 2022 - 2025
-Bioinformatician | Abzu | 2021 - 2022
-MSc in Bioinformatics | Copenhagen University | 2020 - 2022
-BSc in Molecular Biology/Biochemistry | Lund University |  2017 - 2020
+
+|   |   |   |
+|---|---|---|
+| **Ph.D. Candidate**   | Copenhagen University, Novo Nordisk Foundation Center for Protein Research | 2022 – 2025 |
+| **Bioinformatician**  | Abzu  | 2021 – 2022 |
+| **M.Sc. in Bioinformatics** | Copenhagen University | 2020 – 2022 |
+| **B.Sc. in Molecular Biology/Biochemistry** | Lund University | 2017 – 2020 |
+
 
