@@ -9,12 +9,12 @@ This approach not only increases the accuracy of mass spectrometry data analysis
 ## Publications
 
 - Lennartsson C, Kyriakidou P, Nielsen ML, Olsen JV, Cox J, Hendriks IA. (2025).  
-  *Improved peptide search for identification of SUMO and sequence-based modifications, in MaxSBM [Internet].*  
-  Published in **bioRxiv**, p. 2025.08.27.672604. [Available from](https://www.biorxiv.org/content/10.1101/2025.08.27.672604v1.abstract)  
+  *Improved peptide search for identification of SUMO and sequence-based modifications, in MaxSBM.*  
+  Published in **bioRxiv**, p. 2025.08.27.672604. [Link to article](https://www.biorxiv.org/content/10.1101/2025.08.27.672604v1.abstract)  
 
-- Lennartsson CLE, Hendriks IA. (2025).  
+- Lennartsson C, Hendriks IA. (2025).  
   *Native and endogenous SUMO site identification using mass spectrometry (NESSI-MS).*  
-  In **Methods in Molecular Biology [Internet]**. New York, NY: Springer US; p. 31–56. (Methods in molecular biology (Clifton, N.J.)). [Available from](http://dx.doi.org/10.1007/978-1-0716-4710-3_3)  
+  In **Methods in Molecular Biology**. New York, NY: Springer US; p. 31–56. (Methods in molecular biology (Clifton, N.J.)). [Link to article](http://dx.doi.org/10.1007/978-1-0716-4710-3_3)  
 
 - Saar, Daniel, et al. (2024).  
   *The myotubularin related proteins and the untapped interaction potential of their disordered C-terminal regions.*  
