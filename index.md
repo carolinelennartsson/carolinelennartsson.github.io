@@ -1,6 +1,6 @@
 # About me 
 
-Hi, I’m a Bioinformatics PhD specializing in proteomics, with a focus on developing computational tools and applying data science and ML to protein science. My research explores the complexities of post-translational modifications, and molecular structure, aiming to bridge experimental and computational approaches.
+Hi, I’m a Bioinformatics PhD specializing in proteomics, with a focus on developing computational tools and applying data science and ML to protein science. My research explores the complexities of post-translational modifications.
 
 I have experience in international collaboration, cross-disciplinary research, and scientific communication, and I enjoy working at the intersection of biology, computation, and data science.
 
