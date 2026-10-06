@@ -3,7 +3,7 @@
 Here you can find a list of projects and collaborative efforts that I've been a part of. 
 
 ### Mass spectrometry based proteomics
-Much of the work I've done has been in MS based protemics. Some script for data analysis that I've used are avaliable here: [MS_Tools](https://github.com/carolinelennartsson/MS_tools). But there is more to come. 
+Much of the work I've done has been in MS based proteomics. Some script for data analysis that I've used are available here: [MS_Tools](https://github.com/carolinelennartsson/MS_tools). But there is more to come. 
 
 ### Computational MS Textbook
 I'm currently contributing to a community-driven effort, started by EuBIC-MS, to create a free, open and continuously updated textbook on computational mass spectrometry. It's meant to support university courses and serve as a reference for both biologists and informaticians. Follow the progress in the [textbook repository](https://github.com/EuBIC/project-textbook).
@@ -20,10 +20,10 @@ As part of the EuBIC 2023 developers meeting, I joined a collaborative effort to
 An example of peptide drug featurization and modelling using anticancer peptides. Read this [article](https://www.abzu.ai/research/peptide-drug-development-with-symbolic-regression/), written during my time working at [Abzu](https://www.abzu.ai/). 
 
 ### Hackathons 
-List of hackathons and other coding challanges. 
-* [Protein Solubility Challange](https://github.com/roosavarjus/cbh21-protein-solubility-challenge)
+List of hackathons and other coding challenges. 
+* [Protein Solubility Challenge](https://github.com/roosavarjus/cbh21-protein-solubility-challenge)
 * [Diabetes hackathon](https://github.com/roosavarjus/Diabetes-hackathon)
 
 ### Misc 
-* [Machine learning algorihm implementations](https://github.com/carolinelennartsson/ML-implementation)
+* [Machine learning algorithm implementations](https://github.com/carolinelennartsson/ML-implementation)
 * [Solutions](https://github.com/carolinelennartsson/Answers_Computing_in_cpp) to exercises from the book "Guide to Scientific Computing in c++" by Joe Pitt-Francis and Jonathan Whiteley.
