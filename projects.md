@@ -5,6 +5,9 @@ Here you can find a list of projects and collaborative efforts that I've been a 
 ### Mass spectrometry based proteomics
 Much of the work I've done has been in MS based protemics. Some script for data analysis that I've used are avaliable here: [MS_Tools](https://github.com/carolinelennartsson/MS_tools). But there is more to come. 
 
+### Computational MS Textbook
+I'm currently contributing to a community-driven effort, started by EuBIC-MS, to create a free, open and continuously updated textbook on computational mass spectrometry. It's meant to support university courses and serve as a reference for both biologists and informaticians. Follow the progress in the [textbook repository](https://github.com/EuBIC/project-textbook).
+
 ### ProteoBench
 
 ProteoBench is an open and collaborative platform for community-curated benchmarks for proteomics data analysis pipelines. Our goal is to allow a continuous, easy, and controlled comparison of proteomics data analysis workflows. Read more in the [documentation](https://proteobench.readthedocs.io/en/latest/). You can also have a look at the [ProteoBench repository](https://github.com/Proteobench/ProteoBench), to see the code base. 
