@@ -8,9 +8,13 @@ This approach not only increases the accuracy of mass spectrometry data analysis
 
 ## Publications
 
-- Lennartsson C, Kyriakidou P, Nielsen ML, Olsen JV, Cox J, Hendriks IA. (2025).  
-  *Improved peptide search for identification of SUMO and sequence-based modifications, in MaxSBM.*  
-  Published in **bioRxiv**, p. 2025.08.27.672604. [Link to article](https://www.biorxiv.org/content/10.1101/2025.08.27.672604v1.abstract)  
+- Lennartsson C, Kyriakidou P, Nielsen ML, Olsen JV, Cox J, Hendriks IA. (2026).  
+  *Improved peptide search for identification of SUMO and sequence-based modifiers, in MaxSBM.*  
+  Published in **Molecular & Cellular Proteomics**, **25(6)**, 101589. [Link to article](https://doi.org/10.1016/j.mcpro.2026.101589)  
+
+- Devreese, Robbe, et al. (2025).  
+  *ProteoBench: the community-curated platform for comparing proteomics data analysis workflows.*  
+  Published in **bioRxiv**. [Link to article](https://doi.org/10.64898/2025.12.09.692895)  
 
 - Lennartsson C, Hendriks IA. (2025).  
   *Native and endogenous SUMO site identification using mass spectrometry (NESSI-MS).*  
