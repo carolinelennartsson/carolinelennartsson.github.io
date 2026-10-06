@@ -4,6 +4,12 @@ description: "Thoughts on protein research." # This will show up in places like 
 email: "carolinelennartsson@gmail.com"
 github_username: "carolinelennartsson"
 linkedin_username: "caroline-lennartsson"
+orcid: "0000-0002-8392-6858"
+
+# Shown in the profile header on the home page
+role: "Postdoc · Bioinformatics, proteomics & post-translational modifications"
+affiliation: "Novo Nordisk Foundation Center for Basic Metabolic Research, University of Copenhagen"
+location: "Copenhagen, Denmark"
 
 theme: "minima"
 

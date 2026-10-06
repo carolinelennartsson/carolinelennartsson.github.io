@@ -1,0 +1,11 @@
+<section class="profile">
+  <img class="profile-photo" src="https://github.com/{{ site.github_username | escape }}.png?size=320" alt="Photo of {{ site.author | escape }}" width="160" height="160">
+  <div class="profile-body">
+    <h1 class="profile-name">{{ site.author | escape }}</h1>
+    {%- if site.role %}
+    <p class="profile-role">{{ site.role | escape }}</p>
+    {%- endif %}
+    <p class="profile-meta">{{ site.affiliation | escape }}{% if site.affiliation and site.location %} · {% endif %}{{ site.location | escape }}</p>
+    {% include profile-links.html class="profile-links" %}
+  </div>
+</section>

@@ -1,6 +1,11 @@
-# About me 
+---
+layout: home
+title: About me
+---
 
-Hi, I’m a Bioinformatics PhD specializing in proteomics, with a focus on developing computational tools and applying data science and ML to protein science. My research explores the complexities of post-translational modifications.
+## About me 
+
+Hi, I’m a postdoc at the Novo Nordisk Foundation Center for Basic Metabolic Research (University of Copenhagen). I hold a PhD in bioinformatics specializing in proteomics, with a focus on developing computational tools and applying data science and ML to protein science. My research explores the complexities of post-translational modifications.
 
 I have experience in international collaboration, cross-disciplinary research, and scientific communication, and I enjoy working at the intersection of biology, computation, and data science.
 
@@ -8,10 +13,11 @@ On this site, you’ll find an overview of my research, publications, and ongoin
 
 Feel free to reach out!
 
-# Timeline 
+## Timeline 
 
 |   |   |   |
 |---|---|---|
+| **Postdoc** | Copenhagen University, Novo Nordisk Foundation Center for Basic Metabolic Research | 2025 – present |
 | **Ph.D. Candidate**   | Copenhagen University, Novo Nordisk Foundation Center for Protein Research | 2022 – 2025 |
 | **Bioinformatician**  | Abzu  | 2021 – 2022 |
 | **M.Sc. in Bioinformatics** | Copenhagen University | 2020 – 2022 |

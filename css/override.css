@@ -43,3 +43,217 @@ hr {
   font-size: 2.5em;
   opacity: 0.3;
 }
+/* ------------------------------------------------------------------ */
+/* Site theme                                                          */
+/* ------------------------------------------------------------------ */
+
+:root {
+  --accent: #0f766e;
+  --accent-soft: #e6f4f1;
+  --text: #1f2937;
+  --muted: #6b7280;
+  --border: #e5e7eb;
+  --bg: #fafaf9;
+  --card: #ffffff;
+}
+
+body {
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  color: var(--text);
+  background: var(--bg);
+  line-height: 1.65;
+}
+
+a { color: var(--accent); }
+a:visited { color: var(--accent); }
+a:hover { color: #115e59; }
+
+.wrapper { max-width: 860px; }
+
+h1, h2, h3 { color: #111827; letter-spacing: -0.01em; }
+
+.post-title, .page-heading {
+  font-size: 2.1rem;
+  font-weight: 700;
+}
+
+.post-content h2, .home h2 {
+  font-size: 1.45rem;
+  font-weight: 600;
+  margin-top: 2.2rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 1px solid var(--border);
+}
+
+.post-content h3 {
+  font-size: 1.15rem;
+  font-weight: 600;
+  margin-top: 1.8rem;
+  padding-left: 0.7rem;
+  border-left: 3px solid var(--accent);
+}
+
+/* Header and footer */
+
+.site-header {
+  border-top: 0;
+  border-bottom: 1px solid var(--border);
+  background: rgba(255, 255, 255, 0.92);
+  backdrop-filter: blur(6px);
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+
+.site-title, .site-title:visited {
+  font-weight: 700;
+  color: #111827;
+}
+
+.site-nav .page-link {
+  color: var(--muted);
+  font-weight: 500;
+}
+
+.site-nav .page-link:hover { color: var(--accent); text-decoration: none; }
+
+.site-footer {
+  background: var(--card);
+  border-top: 1px solid var(--border);
+}
+
+.social-media-list { list-style: none; margin: 0; }
+.social-media-list li { margin-bottom: 0.3rem; }
+.social-media-list a { color: var(--muted); display: inline-flex; align-items: center; gap: 0.5rem; }
+.social-media-list a:hover { color: var(--accent); text-decoration: none; }
+
+.icon {
+  width: 1em;
+  height: 1em;
+  fill: currentColor;
+  flex-shrink: 0;
+}
+
+/* Profile header on the home page */
+
+.profile {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  padding: 2rem;
+  margin-bottom: 1rem;
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 16px;
+}
+
+.profile-photo {
+  width: 160px;
+  height: 160px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 4px solid var(--accent-soft);
+  flex-shrink: 0;
+}
+
+.profile-name {
+  font-size: 2rem;
+  font-weight: 700;
+  margin: 0 0 0.25rem;
+}
+
+.profile-role {
+  color: var(--accent);
+  font-weight: 500;
+  margin: 0 0 0.2rem;
+}
+
+.profile-meta {
+  color: var(--muted);
+  font-size: 0.95rem;
+  margin: 0 0 1rem;
+}
+
+.profile-links {
+  list-style: none;
+  margin: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.profile-links a {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  padding: 0.35rem 0.85rem;
+  font-size: 0.9rem;
+  font-weight: 500;
+  color: var(--text);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  transition: border-color 0.15s, color 0.15s, background 0.15s;
+}
+
+.profile-links a:visited { color: var(--text); }
+
+.profile-links a:hover {
+  color: var(--accent);
+  border-color: var(--accent);
+  background: var(--accent-soft);
+  text-decoration: none;
+}
+
+@media (max-width: 600px) {
+  .profile {
+    flex-direction: column;
+    text-align: center;
+    padding: 1.5rem;
+    gap: 1.2rem;
+  }
+  .profile-links { justify-content: center; }
+}
+
+/* Timeline table on the home page */
+
+.home table {
+  border: 0;
+  width: 100%;
+}
+
+.home table thead { display: none; }
+
+.home table tr,
+.home table tr:nth-child(even) { background: transparent; }
+
+.home table td {
+  border: 0;
+  border-bottom: 1px solid var(--border);
+  padding: 0.75rem 0.5rem;
+  vertical-align: top;
+}
+
+.home table td:last-child {
+  color: var(--muted);
+  white-space: nowrap;
+  text-align: right;
+}
+
+/* Publication list */
+
+.pub-list ul {
+  list-style: none;
+  margin-left: 0;
+}
+
+.pub-list li {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-left: 3px solid var(--accent);
+  border-radius: 10px;
+  padding: 1rem 1.2rem;
+  margin-bottom: 1rem;
+}
+
+.pub-list li p { margin: 0; }
+.pub-list em { color: #111827; font-style: normal; font-weight: 600; }

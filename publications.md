@@ -1,3 +1,7 @@
+---
+title: Publications
+---
+
 ## Research summary
 
 My research focuses on understanding how proteins are regulated through post-translational modifications (PTMs), such as SUMOylation. These modifications act like molecular switches, shaping key cellular processes by changing protein function, interactions, and stability.  
@@ -7,6 +11,8 @@ In recent work, I helped develop a new search strategy in MaxQuant to better ide
 This approach not only increases the accuracy of mass spectrometry data analysis, but also opens the door to deeper insights into how PTMs regulate cellular biology. Ultimately, my work aims to expand the toolkit for studying protein modifications and to uncover new layers of protein regulation in health and disease.
 
 ## Publications
+
+<div class="pub-list" markdown="1">
 
 - Lennartsson C, Kyriakidou P, Nielsen ML, Olsen JV, Cox J, Hendriks IA. (2026).  
   *Improved peptide search for identification of SUMO and sequence-based modifiers, in MaxSBM.*  
@@ -28,3 +34,4 @@ This approach not only increases the accuracy of mass spectrometry data analysis
   *A Quantitative and Site-Specific Atlas of the Citrullinome Reveals Widespread Existence of Citrullination and Insights into PADI4 Substrates.*  
   Published in **Nature Structural & Molecular Biology**, **31(6)**, 977–995. [Link to article](https://www.nature.com/articles/s41594-024-01214-9)
 
+</div>
